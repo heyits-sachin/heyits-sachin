@@ -31,25 +31,25 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| [Sales Report Generator](https://github.com/Sachin8147-star/sales-report-project-python) | Analyzes CSV sales data and auto-generates PDF reports | Python, FPDF |
-| [Chatbot](https://github.com/Sachin8147-star/chatbot) | A simple rule-based conversational chatbot | Python |
-| [Weather Forecast App](https://github.com/Sachin8147-star/weather-forecast) | Fetches and displays weather forecast data | Python |
-| [Resume / Portfolio Site](https://github.com/Sachin8147-star/Resume_Portfolio_website) | Personal portfolio and resume, built for the web | HTML, CSS |
+| [Sales Report Generator](https://github.com/heyits-sachin/sales-report-project-python) | Analyzes CSV sales data and auto-generates PDF reports | Python, FPDF |
+| [Chatbot](https://github.com/heyits-sachin/chatbot) | A simple rule-based conversational chatbot | Python |
+| [Weather Forecast App](https://github.com/heyits-sachin/weather-forecast) | Fetches and displays weather forecast data | Python |
+| [Resume / Portfolio Site](https://github.com/heyits-sachin/Resume_Portfolio_website) | Personal portfolio and resume, built for the web | HTML, CSS |
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sachin8147-star&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sachin8147-star&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sachin8147-star&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=heyits-sachin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=heyits-sachin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=heyits-sachin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-[![](https://komarev.com/ghpvc/?username=Sachin8147-star&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=heyits-sachin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Daily Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin8147-star/Sachin8147-star/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin8147-star/Sachin8147-star/output/github-snake.svg" />
-    <img alt="Sachin's GitHub contribution snake" src="https://raw.githubusercontent.com/Sachin8147-star/Sachin8147-star/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyits-sachin/heyits-sachin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heyits-sachin/heyits-sachin/output/github-snake.svg" />
+    <img alt="Sachin's GitHub contribution snake" src="https://raw.githubusercontent.com/heyits-sachin/heyits-sachin/output/github-snake.svg" />
   </picture>
 </p>
 
